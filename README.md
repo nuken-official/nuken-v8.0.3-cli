@@ -17,7 +17,7 @@ npm start
 ```
 nuken should open from the command line in a pop-up window. In this dev version, DevTools and developer keyboard shortcuts are enabled. Have fun!
 
-[![N|Solid](https://nuken.xyz/images/editor.png)](https://nodesource.com/products/nsolid)
+[![nuken](https://nuken.xyz/images/editor.png)](https://nuken.xyz)
 
 >Some nuken Shop content may not work with this version of nuken. Please download at your own risk.
 
